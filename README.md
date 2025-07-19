@@ -1,7 +1,7 @@
 
 ---
 
-> 👋 Hi, I’m Lamar G., a self-taught AI engineer in training, currently deep into an 18-month full-time self-study program that blends the science and engineering of artificial intelligence.
+> 👋 Hi, I’m Glass Knight., a self-taught AI engineer in training, currently deep into an 18-month full-time self-study program that blends the science and engineering of artificial intelligence.
 
 My curriculum covers Python programming, mathematics, algorithms, deep learning, real-world projects, and AI system deployment. I’m focused on building intelligent systems that bridge software and hardware — from training neural networks and programming microcontrollers to deploying scalable, cloud-based architectures.
 
